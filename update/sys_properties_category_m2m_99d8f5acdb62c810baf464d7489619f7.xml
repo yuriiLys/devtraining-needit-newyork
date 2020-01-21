@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category_m2m">
+    <sys_properties_category_m2m action="INSERT_OR_UPDATE">
+        <category display_value="NeedIt Properties">9656b5e8db62c810baf464d748961930</category>
+        <order>100</order>
+        <property display_value="x_58872_needit.patentAttorneyContact" name="x_58872_needit.patentAttorneyContact">f1a6792cdb62c810baf464d748961974</property>
+        <sys_class_name>sys_properties_category_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-21 15:40:19</sys_created_on>
+        <sys_id>99d8f5acdb62c810baf464d7489619f7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit.patentAttorneyContact.NeedIt Properties</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_properties_category_m2m_99d8f5acdb62c810baf464d7489619f7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-21 15:40:19</sys_updated_on>
+    </sys_properties_category_m2m>
+</record_update>
