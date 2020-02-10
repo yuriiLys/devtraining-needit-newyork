@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_parameter">
+    <sys_sg_ui_parameter action="DELETE">
+        <button display_value="Create New">8ae389cfdb320010baf464d74896198a</button>
+        <button_parent_table/>
+        <carried>false</carried>
+        <constant/>
+        <default_value/>
+        <default_value_type>none</default_value_type>
+        <field_name>manager</field_name>
+        <input_source>user</input_source>
+        <input_style/>
+        <input_type>text</input_type>
+        <mandatory>true</mandatory>
+        <max_entries/>
+        <multi_entry>false</multi_entry>
+        <multi_select>false</multi_select>
+        <name>Requested for email</name>
+        <order/>
+        <parameter_type>button</parameter_type>
+        <placeholder/>
+        <screen/>
+        <search_type>starts_with</search_type>
+        <source_field/>
+        <sys_class_name>sys_sg_ui_parameter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-10 17:39:54</sys_created_on>
+        <sys_id>fee80583db720010baf464d7489619ee</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Requested for email</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_sg_ui_parameter_fee80583db720010baf464d7489619ee</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-10 17:45:52</sys_updated_on>
+        <table_name>sys_user</table_name>
+    </sys_sg_ui_parameter>
+    <sys_translated_text action="DELETE" query="documentkey=fee80583db720010baf464d7489619ee"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>d8dc3d77db97f740387021c4059619cb</instance_id>
+        <instance_name>dev92333</instance_name>
+        <name>sys_sg_ui_parameter_fee80583db720010baf464d7489619ee</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_parameter"><sys_sg_ui_parameter action="INSERT_OR_UPDATE"><button display_value="Create New">8ae389cfdb320010baf464d74896198a</button><button_parent_table/><carried>false</carried><constant/><default_value/><default_value_type>none</default_value_type><field_name>manager</field_name><input_source>user</input_source><input_style/><input_type>text</input_type><mandatory>true</mandatory><max_entries/><multi_entry>false</multi_entry><multi_select>false</multi_select><name>Requested for email</name><order/><parameter_type>button</parameter_type><placeholder/><screen/><search_type>starts_with</search_type><source_field/><sys_class_name>sys_sg_ui_parameter</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-02-10 17:39:54</sys_created_on><sys_id>fee80583db720010baf464d7489619ee</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Requested for email</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_sg_ui_parameter_fee80583db720010baf464d7489619ee</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-02-10 17:45:52</sys_updated_on><table_name>sys_user</table_name></sys_sg_ui_parameter><sys_translated_text action="delete_multiple" query="documentkey=fee80583db720010baf464d7489619ee"/></record_update>]]></payload>
+        <payload_hash>1266728777</payload_hash>
+        <record_name>Requested for email</record_name>
+        <reverted_from/>
+        <source>37c34431db324010baf464d7489619fb</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-10 17:45:53</sys_created_on>
+        <sys_id>63555d8bdb720010baf464d748961911</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>170303520e60000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-10 17:45:53</sys_updated_on>
+        <type>UI parameter</type>
+        <update_guid>6b555d8b9d7200102e4f4cd47deeaa10</update_guid>
+        <update_guid_history>6b555d8b9d7200102e4f4cd47deeaa10:1266728777,5804194b58720010dccdcbbe36abf62f:-1658226518</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-10 18:16:31</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_ui_parameter">sys_sg_ui_parameter</sys_db_object>
+        <sys_id>14f9a5c911b8476bb89507ac5ffe2c71</sys_id>
+        <sys_metadata>fee80583db720010baf464d7489619ee</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Requested for email</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_sg_ui_parameter_fee80583db720010baf464d7489619ee</sys_update_name>
+        <sys_update_version display_value="sys_sg_ui_parameter_fee80583db720010baf464d7489619ee">63555d8bdb720010baf464d748961911</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-10 18:16:31</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

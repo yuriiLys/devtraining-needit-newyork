@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_view">
+    <sys_sg_item_view action="DELETE">
+        <data_item/>
+        <dependency_fields>priority-43046,number-3907,short_description-22124,u_requested_for.name-3092,u_requested_for.avatar-20170,u_when_needed-10134</dependency_fields>
+        <item_view_json>{"Type":"ViewGroup","Margin":{"Top":15,"Bottom":17},"Orientation":"Vertical","Alignment":"Stretch","Distribution":"Auto","Children":[{"Type":"ViewGroup","Orientation":"Horizontal","Alignment":"Stretch","Distribution":"Auto","Children":[{"Type":"ViewGroup","Id":42845,"Orientation":"Vertical","Alignment":"Left","Distribution":"Equal","Children":[{"Type":"ViewGroup","CornerRadius":2,"BackgroundColor":"#f1f1f1","Height":20,"Margin":{},"Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Children":[{"Id":43045,"Type":"Text","studio_ignore":true,"Margin":{"Left":8},"TextColor":"#333e3f","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":10,"Name":"Font Awesome 5 Pro Regular"}},{"Type":"Text","studio_template_field_id":"E1","Margin":{"Left":6,"Right":8,"Top":3,"Bottom":3},"Text":"","CellId":"priority","TextColor":"#333e3f","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":13},"Id":43046}],"Id":3484}]},{"Type":"ViewGroup","Orientation":"Vertical","Alignment":"Right","Distribution":"Equal","Children":[{"Type":"Text","studio_template_field_id":"E2","Id":3907,"Text":"","CellId":"number","TextColor":"#637274","TextAlignment":"Right","MaxLines":1,"Font":{"Weight":"regular","Size":13}}],"Id":42846}],"Id":12259},{"Type":"Text","studio_template_field_id":"E3","Margin":{"Top":10},"Id":22124,"CellId":"short_description","TextColor":"#333e3f","TextAlignment":"Left","MaxLines":2,"Font":{"Weight":"regular","Size":18}},{"Type":"ViewGroup","Orientation":"Vertical","Alignment":"Left","Distribution":"Equal","Children":[{"Type":"ViewGroup","Margin":{"Top":9},"Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Children":[{"Type":"Text","studio_template_is_label":true,"studio_template_field_id":"E4","Margin":{},"Text":"${u_requested_for.name}","TextColor":"#7d8a8c","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":13},"Id":3091},{"Type":"Text","studio_template_field_id":"E4","Margin":{"Left":8},"CellId":"u_requested_for.name","TextColor":"#333e3f","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":13},"Id":3092}],"Id":34348}],"Id":12261},{"Type":"ViewGroup","Orientation":"Vertical","Alignment":"Left","Distribution":"Equal","Children":[{"Type":"ViewGroup","Margin":{"Top":17},"Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Children":[{"Type":"Image","studio_template_field_id":"E5","CornerRadius":12,"Height":24,"Width":24,"CellId":"u_requested_for.avatar","Scaling":"Fill","Id":20170},{"Type":"Text","Margin":{"Left":8},"Text":"${u_when_needed}","studio_template_is_label":true,"studio_template_field_id":"E6","TextColor":"#333e3f","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":13},"Id":10133},{"Type":"Text","studio_template_field_id":"E6","Margin":{"Left":3},"CellId":"u_when_needed","TextColor":"#333e3f","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":13},"Id":10134}],"Id":24212}],"Id":12262}],"Id":28090,"studio_card_id":"105c136b0f333300c46f5cbac4767e67"}</item_view_json>
+        <name>NeedIt Next Quarter Item View</name>
+        <short_description/>
+        <sys_class_name>sys_sg_item_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-06 16:55:47</sys_created_on>
+        <sys_id>be83a0b1db724010baf464d748961965</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt Next Quarter Item View</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_sg_item_view_be83a0b1db724010baf464d748961965</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-06 16:55:47</sys_updated_on>
+        <table>x_58872_needit_needit</table>
+        <ui_styles/>
+    </sys_sg_item_view>
+    <sys_translated_text action="DELETE" query="documentkey=be83a0b1db724010baf464d748961965"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>d8dc3d77db97f740387021c4059619cb</instance_id>
+        <instance_name>dev92333</instance_name>
+        <name>sys_sg_item_view_be83a0b1db724010baf464d748961965</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_view"><sys_sg_item_view action="INSERT_OR_UPDATE"><data_item/><dependency_fields>priority-43046,number-3907,short_description-22124,u_requested_for.name-3092,u_requested_for.avatar-20170,u_when_needed-10134</dependency_fields><item_view_json>{"Type":"ViewGroup","Margin":{"Top":15,"Bottom":17},"Orientation":"Vertical","Alignment":"Stretch","Distribution":"Auto","Children":[{"Type":"ViewGroup","Orientation":"Horizontal","Alignment":"Stretch","Distribution":"Auto","Children":[{"Type":"ViewGroup","Id":42845,"Orientation":"Vertical","Alignment":"Left","Distribution":"Equal","Children":[{"Type":"ViewGroup","CornerRadius":2,"BackgroundColor":"#f1f1f1","Height":20,"Margin":{},"Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Children":[{"Id":43045,"Type":"Text","studio_ignore":true,"Margin":{"Left":8},"TextColor":"#333e3f","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":10,"Name":"Font Awesome 5 Pro Regular"}},{"Type":"Text","studio_template_field_id":"E1","Margin":{"Left":6,"Right":8,"Top":3,"Bottom":3},"Text":"","CellId":"priority","TextColor":"#333e3f","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":13},"Id":43046}],"Id":3484}]},{"Type":"ViewGroup","Orientation":"Vertical","Alignment":"Right","Distribution":"Equal","Children":[{"Type":"Text","studio_template_field_id":"E2","Id":3907,"Text":"","CellId":"number","TextColor":"#637274","TextAlignment":"Right","MaxLines":1,"Font":{"Weight":"regular","Size":13}}],"Id":42846}],"Id":12259},{"Type":"Text","studio_template_field_id":"E3","Margin":{"Top":10},"Id":22124,"CellId":"short_description","TextColor":"#333e3f","TextAlignment":"Left","MaxLines":2,"Font":{"Weight":"regular","Size":18}},{"Type":"ViewGroup","Orientation":"Vertical","Alignment":"Left","Distribution":"Equal","Children":[{"Type":"ViewGroup","Margin":{"Top":9},"Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Children":[{"Type":"Text","studio_template_is_label":true,"studio_template_field_id":"E4","Margin":{},"Text":"${u_requested_for.name}","TextColor":"#7d8a8c","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":13},"Id":3091},{"Type":"Text","studio_template_field_id":"E4","Margin":{"Left":8},"CellId":"u_requested_for.name","TextColor":"#333e3f","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":13},"Id":3092}],"Id":34348}],"Id":12261},{"Type":"ViewGroup","Orientation":"Vertical","Alignment":"Left","Distribution":"Equal","Children":[{"Type":"ViewGroup","Margin":{"Top":17},"Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Children":[{"Type":"Image","studio_template_field_id":"E5","CornerRadius":12,"Height":24,"Width":24,"CellId":"u_requested_for.avatar","Scaling":"Fill","Id":20170},{"Type":"Text","Margin":{"Left":8},"Text":"${u_when_needed}","studio_template_is_label":true,"studio_template_field_id":"E6","TextColor":"#333e3f","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":13},"Id":10133},{"Type":"Text","studio_template_field_id":"E6","Margin":{"Left":3},"CellId":"u_when_needed","TextColor":"#333e3f","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":13},"Id":10134}],"Id":24212}],"Id":12262}],"Id":28090,"studio_card_id":"105c136b0f333300c46f5cbac4767e67"}</item_view_json><name>NeedIt Next Quarter Item View</name><short_description/><sys_class_name>sys_sg_item_view</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-02-06 16:55:47</sys_created_on><sys_id>be83a0b1db724010baf464d748961965</sys_id><sys_mod_count>0</sys_mod_count><sys_name>NeedIt Next Quarter Item View</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_sg_item_view_be83a0b1db724010baf464d748961965</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-02-06 16:55:47</sys_updated_on><table>x_58872_needit_needit</table><ui_styles/></sys_sg_item_view><sys_translated_text action="delete_multiple" query="documentkey=be83a0b1db724010baf464d748961965"/></record_update>]]></payload>
+        <payload_hash>545936156</payload_hash>
+        <record_name>NeedIt Next Quarter Item View</record_name>
+        <reverted_from/>
+        <source>37c34431db324010baf464d7489619fb</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-06 16:55:47</sys_created_on>
+        <sys_id>f283e475db724010baf464d748961950</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1701b6dd2f00000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-06 16:55:47</sys_updated_on>
+        <type>Item view</type>
+        <update_guid>7683a0b1c1724010126dfcebe82f2a67</update_guid>
+        <update_guid_history>7683a0b1c1724010126dfcebe82f2a67:545936156</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-10 18:50:44</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_item_view">sys_sg_item_view</sys_db_object>
+        <sys_id>25096269155f4a3d920015a397d40801</sys_id>
+        <sys_metadata>be83a0b1db724010baf464d748961965</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt Next Quarter Item View</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_sg_item_view_be83a0b1db724010baf464d748961965</sys_update_name>
+        <sys_update_version display_value="sys_sg_item_view_be83a0b1db724010baf464d748961965">f283e475db724010baf464d748961950</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-10 18:50:44</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
